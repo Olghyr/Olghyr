@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "Projet",
+  "version": "0.1.0",
+  "description": "Tentative nulle de faire un bot de simulation de marchandises",
+  "main": "main.js",
+  "repository": "https://github.com/Olghyr/Olghyr.git",
+  "author": "Olghyr <olghyre@gmail.com>",
+  "license": "MIT"
 }
